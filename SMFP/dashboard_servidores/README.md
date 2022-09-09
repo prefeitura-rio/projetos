@@ -28,7 +28,7 @@ Fichas Vínculos (fichas_vinculos)
 Fichas Rubricas (fichas_rubricas)
 Unificação (Comlurb + Direta)
  Ficha Financeira
-
+subir mais tabelas
 
 Bases que serão utilizadas (já estão no datalake):
 Ergon
