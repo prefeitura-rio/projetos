@@ -43,6 +43,7 @@ Data: 09/09
 Entrega Geral: 
 clone do github da prefeitura
 no github de projetos subir um readme com o overview do projeto, com objetivo, e descrição da solução
+
 Aula 2
 Tema: Metadados, padronização e normalização
 Objetivo: Mostrar como estruturar uma tabela para produção, regras e boas práticas de normalização e preenchimento dos metadados
