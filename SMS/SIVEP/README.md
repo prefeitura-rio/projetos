@@ -11,3 +11,5 @@ Fazer a extração dos dados do sistema SIVEP-Gripe de forma automatizada a part
 
 ### Aviso
 Dados provenientes de sistemas de notificação do Ministério da Saúde, podem conter eventuais erros de digitação ou preenchimento afetando um ou mais dos diversos campos de registro.
+
+23/09/2022
