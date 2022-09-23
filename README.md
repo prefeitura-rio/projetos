@@ -1,7 +1,3 @@
-# projetos
+#Projeto Alocação de Professores
 
-Nesse repositório estão listados os projetos do Escritório de Dados.
-
-Índice de Projetos
-    - Formação em Infra
-    -Linha adicionada
+Este projeto visa trazer informações do novo módulo de alocação de professores para o Datalake e cruzar seus dados com os outros dados já existentes.
