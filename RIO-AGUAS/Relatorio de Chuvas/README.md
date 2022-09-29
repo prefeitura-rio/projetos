@@ -20,6 +20,7 @@ A solução consiste em gerar um relatório automatizado com dados em tempo real
 ## **Parâmetros**
 
 ### **Precipitação**
+
 #### **Estações do Alerta Rio**
 Uso de dados desde 1991 do sistema alerta-rio com os seguintes visualizações:  
 - Mapa com estações indicando onde foi ou não atingido índice com a lista dos nomes dos postos que atigiram o indice.
@@ -47,6 +48,3 @@ Dados com porcentagem de enchimento dos reservatórios da bacia do Canal do Mang
 Gráfico do nível da lagoa com indicação de estágios de normalidade, atenção e crítico.  
 Gráfico com indicação da abertura e fechamento das comportas do canal da rua General Garzon, canal da Visconde de Albuquerque e do canal do Jardim de Alah.
 >Avaliando login para acesso dos dados ou se há uma API.
-
-
-
